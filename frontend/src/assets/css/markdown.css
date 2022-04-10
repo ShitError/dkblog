@@ -790,7 +790,8 @@
   padding: .2em .4em;
   margin: 0;
   font-size: 85%;
-  background-color: rgba(27,31,35,.05);
+  background-color: #282c34;
+  font-weight: 700;
   border-radius: 3px;
 }
 
